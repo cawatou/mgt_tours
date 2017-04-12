@@ -1,0 +1,74 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Купить тур онлайн", 
+		"/catalog/online/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О компании", 
+		"/content/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Поиск попутчиков", 
+		"/content/companion/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Каталог отелей", 
+		"/catalog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Статьи", 
+		"/content/articles/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Франшиза", 
+		"/content/franchize/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Обучение", 
+		"/content/teach/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вопрос-ответ", 
+		"/content/faq/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Вакансии", 
+		"/content/job/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Где купить", 
+		"/content/map/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

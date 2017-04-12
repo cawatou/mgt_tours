@@ -1,0 +1,977 @@
+Array
+(
+    [374819858] => Array
+        (
+            [flydate] => 18.04.2017
+            [name] => 18.04.2017_374819858
+            [cat_name] => Москва - Абхазия(Новый Афон)
+            [night_interval] => 3
+            [min_price] => 12726
+            [hotels] => Array
+                (
+                    [0] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30035
+                            [hotelname] => АНАКОПИЯ КЛАБ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30035.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923697427891
+                            [nights] => 3
+                            [hotelstars] => 3
+                            [price] => 12726
+                        )
+
+                    [1] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 32458
+                            [hotelname] => ЛЕРНЕСТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/32458.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923697427930
+                            [nights] => 3
+                            [hotelstars] => 3
+                            [price] => 14318
+                        )
+
+                    [2] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30053
+                            [hotelname] => КАМАРИТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30053.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803226859
+                            [nights] => 3
+                            [hotelstars] => 2
+                            [price] => 15378
+                        )
+
+                    [3] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30044
+                            [hotelname] => ГРИФОН
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30044.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803226935
+                            [nights] => 3
+                            [hotelstars] => 3
+                            [price] => 15990
+                        )
+
+                )
+
+        )
+
+    [374819879] => Array
+        (
+            [flydate] => 14.04.2017
+            [name] => 14.04.2017_374819879
+            [cat_name] => Москва - Абхазия(Новый Афон)
+            [night_interval] => 6
+            [min_price] => 16751
+            [hotels] => Array
+                (
+                    [0] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30035
+                            [hotelname] => АНАКОПИЯ КЛАБ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30035.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923502462925
+                            [nights] => 6
+                            [hotelstars] => 3
+                            [price] => 16751
+                        )
+
+                    [1] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30053
+                            [hotelname] => КАМАРИТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30053.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723716835014
+                            [nights] => 6
+                            [hotelstars] => 2
+                            [price] => 19356
+                        )
+
+                    [2] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 32458
+                            [hotelname] => ЛЕРНЕСТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/32458.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923750207012
+                            [nights] => 6
+                            [hotelstars] => 3
+                            [price] => 19970
+                        )
+
+                    [3] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30044
+                            [hotelname] => ГРИФОН
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30044.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723477433629
+                            [nights] => 6
+                            [hotelstars] => 3
+                            [price] => 20580
+                        )
+
+                    [4] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30059
+                            [hotelname] => ЛЕБЕДЬ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30059.jpg
+                            [operatorname] => Данко
+                            [mealrussian] => Без питания
+                            [tourid] => 4923803232091
+                            [nights] => 6
+                            [hotelstars] => 2
+                            [price] => 30017
+                        )
+
+                    [5] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 43844
+                            [hotelname] => ЛЕОН
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/43844.jpg
+                            [operatorname] => Данко
+                            [mealrussian] => Без питания
+                            [tourid] => 4923030854081
+                            [nights] => 6
+                            [hotelstars] => 3
+                            [price] => 27777
+                        )
+
+                )
+
+        )
+
+    [374819889] => Array
+        (
+            [flydate] => 14.05.2017
+            [name] => 14.05.2017_374819889
+            [cat_name] => Москва - Абхазия(Новый Афон)
+            [night_interval] => 6
+            [min_price] => 17520
+            [hotels] => Array
+                (
+                    [0] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 46802
+                            [hotelname] => ФОРТУНА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/46802.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723732634139
+                            [nights] => 6
+                            [hotelstars] => 2
+                            [price] => 17520
+                        )
+
+                    [1] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30053
+                            [hotelname] => КАМАРИТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30053.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723732634169
+                            [nights] => 6
+                            [hotelstars] => 2
+                            [price] => 19356
+                        )
+
+                    [2] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 40417
+                            [hotelname] => У МОНАСТЫРЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/40417.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 6923803229572
+                            [nights] => 6
+                            [hotelstars] => 2
+                            [price] => 23762
+                        )
+
+                    [3] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 32458
+                            [hotelname] => ЛЕРНЕСТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/32458.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923803229588
+                            [nights] => 6
+                            [hotelstars] => 3
+                            [price] => 25088
+                        )
+
+                    [4] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30035
+                            [hotelname] => АНАКОПИЯ КЛАБ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30035.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 1815883266621
+                            [nights] => 6
+                            [hotelstars] => 3
+                            [price] => 28397
+                        )
+
+                    [5] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 41828
+                            [hotelname] => ВИЛЛА СОВА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/41828.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Завтрак
+                            [tourid] => 1815827511756
+                            [nights] => 6
+                            [hotelstars] => 3
+                            [price] => 28690
+                        )
+
+                    [6] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30080
+                            [hotelname] => ЦАРСКАЯ АЛЛЕЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30080.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Полупансион
+                            [tourid] => 1815948831906
+                            [nights] => 6
+                            [hotelstars] => 2
+                            [price] => 32466
+                        )
+
+                    [7] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 553646
+                            [hotelname] => AFON RESORT HOTEL (АФОН РЕЗОРТ), отель комфорт
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/hotel_country_46.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Завтрак
+                            [tourid] => 1815948831919
+                            [nights] => 6
+                            [hotelstars] => 3
+                            [price] => 36477
+                        )
+
+                )
+
+        )
+
+    [374819907] => Array
+        (
+            [flydate] => 14.05.2017
+            [name] => 14.05.2017_374819907
+            [cat_name] => Москва - Абхазия(Новый Афон)
+            [night_interval] => 9
+            [min_price] => 20580
+            [hotels] => Array
+                (
+                    [0] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 46802
+                            [hotelname] => ФОРТУНА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/46802.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803233462
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 20580
+                        )
+
+                    [1] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30053
+                            [hotelname] => КАМАРИТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30053.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803233490
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 23334
+                        )
+
+                    [2] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 40417
+                            [hotelname] => У МОНАСТЫРЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/40417.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 6923803231661
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 30645
+                        )
+
+                    [3] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 32458
+                            [hotelname] => ЛЕРНЕСТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/32458.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923803231693
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 32636
+                        )
+
+                    [4] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30035
+                            [hotelname] => АНАКОПИЯ КЛАБ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30035.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 1815948835914
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 37586
+                        )
+
+                    [5] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 41828
+                            [hotelname] => ВИЛЛА СОВА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/41828.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Завтрак
+                            [tourid] => 1815948835840
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 43081
+                        )
+
+                    [6] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30080
+                            [hotelname] => ЦАРСКАЯ АЛЛЕЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30080.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Полупансион
+                            [tourid] => 1815948835934
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 43688
+                        )
+
+                    [7] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 553646
+                            [hotelname] => AFON RESORT HOTEL (АФОН РЕЗОРТ), отель комфорт
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/hotel_country_46.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Завтрак
+                            [tourid] => 1815948835974
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 49705
+                        )
+
+                )
+
+        )
+
+    [374819902] => Array
+        (
+            [flydate] => 14.04.2017
+            [name] => 14.04.2017_374819902
+            [cat_name] => Москва - Абхазия(Новый Афон)
+            [night_interval] => 9
+            [min_price] => 21266
+            [hotels] => Array
+                (
+                    [0] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30035
+                            [hotelname] => АНАКОПИЯ КЛАБ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30035.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923803230920
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 21266
+                        )
+
+                    [1] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30053
+                            [hotelname] => КАМАРИТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30053.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723795700958
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 23334
+                        )
+
+                    [2] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 32458
+                            [hotelname] => ЛЕРНЕСТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/32458.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923803230946
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 26094
+                        )
+
+                    [3] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30044
+                            [hotelname] => ГРИФОН
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30044.jpg
+                            [operatorname] => Spectrum
+                            [mealrussian] => Без питания
+                            [tourid] => 5923795700833
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 30334
+                        )
+
+                    [4] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 43844
+                            [hotelname] => ЛЕОН
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/43844.jpg
+                            [operatorname] => Данко
+                            [mealrussian] => Без питания
+                            [tourid] => 4923803242476
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 31012
+                        )
+
+                    [5] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30059
+                            [hotelname] => ЛЕБЕДЬ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30059.jpg
+                            [operatorname] => Данко
+                            [mealrussian] => Без питания
+                            [tourid] => 4923803242554
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 34372
+                        )
+
+                )
+
+        )
+
+    [374819912] => Array
+        (
+            [flydate] => 26.05.2017
+            [name] => 26.05.2017_374819912
+            [cat_name] => Москва - Абхазия(Новый Афон)
+            [night_interval] => 9
+            [min_price] => 21498
+            [hotels] => Array
+                (
+                    [0] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 46802
+                            [hotelname] => ФОРТУНА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/46802.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803233175
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 21498
+                        )
+
+                    [1] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30053
+                            [hotelname] => КАМАРИТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30053.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803233232
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 25170
+                        )
+
+                    [2] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30029
+                            [hotelname] => АБХАЗИЯ НОВЫЙ АФОН
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30029.jpg
+                            [operatorname] => Данко
+                            [mealrussian] => Без питания
+                            [tourid] => 4923803235327
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 33647
+                        )
+
+                    [3] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 40417
+                            [hotelname] => У МОНАСТЫРЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/40417.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 6923803231920
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 35184
+                        )
+
+                    [4] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 32458
+                            [hotelname] => ЛЕРНЕСТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/32458.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923803231943
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 37809
+                        )
+
+                    [5] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30035
+                            [hotelname] => АНАКОПИЯ КЛАБ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30035.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 1815948856482
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 45135
+                        )
+
+                    [6] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30080
+                            [hotelname] => ЦАРСКАЯ АЛЛЕЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30080.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Полупансион
+                            [tourid] => 1815948856542
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 49490
+                        )
+
+                    [7] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 41828
+                            [hotelname] => ВИЛЛА СОВА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/41828.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Завтрак
+                            [tourid] => 1815948856254
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 49962
+                        )
+
+                    [8] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 553646
+                            [hotelname] => AFON RESORT HOTEL (АФОН РЕЗОРТ), отель комфорт
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/hotel_country_46.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Завтрак
+                            [tourid] => 1815948856596
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 53215
+                        )
+
+                )
+
+        )
+
+    [374819904] => Array
+        (
+            [flydate] => 02.05.2017
+            [name] => 02.05.2017_374819904
+            [cat_name] => Москва - Абхазия(Новый Афон)
+            [night_interval] => 9
+            [min_price] => 25870
+            [hotels] => Array
+                (
+                    [0] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30059
+                            [hotelname] => ЛЕБЕДЬ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30059.jpg
+                            [operatorname] => Алеан
+                            [mealrussian] => Без питания
+                            [tourid] => 3123803236103
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 25870
+                        )
+
+                    [1] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30029
+                            [hotelname] => АБХАЗИЯ НОВЫЙ АФОН
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30029.jpg
+                            [operatorname] => Алеан
+                            [mealrussian] => Без питания
+                            [tourid] => 3123803236138
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 38470
+                        )
+
+                    [2] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30053
+                            [hotelname] => КАМАРИТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30053.jpg
+                            [operatorname] => Алеан
+                            [mealrussian] => Без питания
+                            [tourid] => 3123803236115
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 30370
+                        )
+
+                    [3] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 40417
+                            [hotelname] => У МОНАСТЫРЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/40417.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 6923803231233
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 30820
+                        )
+
+                    [4] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 32458
+                            [hotelname] => ЛЕРНЕСТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/32458.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923803231247
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 32810
+                        )
+
+                    [5] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30044
+                            [hotelname] => ГРИФОН
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30044.jpg
+                            [operatorname] => Алеан
+                            [mealrussian] => Без питания
+                            [tourid] => 3123803236136
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 36670
+                        )
+
+                    [6] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 46802
+                            [hotelname] => ФОРТУНА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/46802.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803230836
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 36540
+                        )
+
+                    [7] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30035
+                            [hotelname] => АНАКОПИЯ КЛАБ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30035.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 1815948840213
+                            [nights] => 9
+                            [hotelstars] => 3
+                            [price] => 37846
+                        )
+
+                    [8] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 46799
+                            [hotelname] => БЕЛЫЙ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/46799.jpg
+                            [operatorname] => Алеан
+                            [mealrussian] => Без питания
+                            [tourid] => 3123803236141
+                            [nights] => 9
+                            [hotelstars] => 2
+                            [price] => 38470
+                        )
+
+                )
+
+        )
+
+    [374819925] => Array
+        (
+            [flydate] => 14.05.2017
+            [name] => 14.05.2017_374819925
+            [cat_name] => Москва - Абхазия(Новый Афон)
+            [night_interval] => 15
+            [min_price] => 26700
+            [hotels] => Array
+                (
+                    [0] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 46802
+                            [hotelname] => ФОРТУНА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/46802.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803235623
+                            [nights] => 15
+                            [hotelstars] => 2
+                            [price] => 26700
+                        )
+
+                    [1] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30053
+                            [hotelname] => КАМАРИТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30053.jpg
+                            [operatorname] => Paks
+                            [mealrussian] => Без питания
+                            [tourid] => 2723803235703
+                            [nights] => 15
+                            [hotelstars] => 2
+                            [price] => 31290
+                        )
+
+                    [2] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 40417
+                            [hotelname] => У МОНАСТЫРЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/40417.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 6923803233813
+                            [nights] => 15
+                            [hotelstars] => 2
+                            [price] => 45103
+                        )
+
+                    [3] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 32458
+                            [hotelname] => ЛЕРНЕСТ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/32458.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Без питания
+                            [tourid] => 6923803233841
+                            [nights] => 15
+                            [hotelstars] => 3
+                            [price] => 48420
+                        )
+
+                    [4] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30035
+                            [hotelname] => АНАКОПИЯ КЛАБ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30035.jpg
+                            [operatorname] => Intravel
+                            [mealrussian] => Полный Пансион
+                            [tourid] => 6923803233967
+                            [nights] => 15
+                            [hotelstars] => 3
+                            [price] => 55991
+                        )
+
+                    [5] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 41828
+                            [hotelname] => ВИЛЛА СОВА
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/41828.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Завтрак
+                            [tourid] => 1815948840607
+                            [nights] => 15
+                            [hotelstars] => 3
+                            [price] => 65803
+                        )
+
+                    [6] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 30080
+                            [hotelname] => ЦАРСКАЯ АЛЛЕЯ
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/30080.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Полупансион
+                            [tourid] => 1815948840702
+                            [nights] => 15
+                            [hotelstars] => 2
+                            [price] => 66814
+                        )
+
+                    [7] => Array
+                        (
+                            [countryname] => Абхазия
+                            [regionname] => Новый Афон
+                            [hotelcode] => 553646
+                            [hotelname] => AFON RESORT HOTEL (АФОН РЕЗОРТ), отель комфорт
+                            [picturelink] => //static.tourvisor.ru/hotel_pics/small/hotel_country_46.jpg
+                            [operatorname] => Biblioglobus
+                            [mealrussian] => Завтрак
+                            [tourid] => 1815948840734
+                            [nights] => 15
+                            [hotelstars] => 3
+                            [price] => 76842
+                        )
+
+                )
+
+        )
+
+)

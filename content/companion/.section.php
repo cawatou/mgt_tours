@@ -1,0 +1,4 @@
+<?
+$sSectionName = "Попутчики";
+$arDirProperties = array();
+?>
